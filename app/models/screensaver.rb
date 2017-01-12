@@ -1,0 +1,2 @@
+class Screensaver < ApplicationRecord
+end
